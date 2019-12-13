@@ -1,5 +1,5 @@
 {
-  "name": "orgBasedTestRNRepo",
+  "name": "org-based-test-rn-repo",
   "version": "0.0.1",
   "description": "test npm package for organization based repo",
   "main": "dist/index.js",
